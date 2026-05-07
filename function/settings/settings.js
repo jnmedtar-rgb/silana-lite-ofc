@@ -14,12 +14,12 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
+ nomerbot : '967735706688',
+ pairingNumber : '967735706688',
  figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
+ nomorwa : '14752748047',
  nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomerown : '22242203253',
  packname : 'sticker by ',
  author : 'SILANA AI',
  namebot : '乂 SILANA AI',
@@ -34,10 +34,10 @@ global.media = {
  ppKosong : 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
  didyou : 'https://telegra.ph/file/e40219cc8d472025f18b6.jpg',
  rulesBot : 'https://telegra.ph/file/7cd8985216ffd3c376238.jpg',
- thumbnail : 'https://files.catbox.moe/hnbuh3.jpg',
- thumb : 'https://files.catbox.moe/hnbuh3.jpg',
+ thumbnail : 'https://i.postimg.cc/B66Ln6xd/IMG-20260428-WA0076.webp',
+ thumb : 'https://i.postimg.cc/B66Ln6xd/IMG-20260428-WA0076.webp',
  logo : 'https://files.catbox.moe/hnbuh3.jpg',
- unReg : 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
+ unReg : 'https://i.postimg.cc/B66Ln6xd/IMG-20260428-WA0076.webp',
  registrasi : 'https://files.catbox.moe/hnbuh3.jpg',
  confess : 'https://telegra.ph/file/bfef7e33bc60dd2608ac6.jpg',
  access : 'https://telegra.ph/file/5c35d4a180b9074a9f11b.jpg',
