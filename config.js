@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url'
 
 // Owner
 global.owner = [
-['14752748047', 'med tar', true]
+['22242203253', 'med tar', true]
 ]
 global.mods = []
 global.prems = []
